@@ -1,4 +1,4 @@
-# blog_site
+# Customer Management System
 
 Pages:
 - Register
