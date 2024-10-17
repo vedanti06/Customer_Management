@@ -1,13 +1,35 @@
-# Customer Management System
 
-Pages:
-- Register
-- Login
-- Home page
-- Add,Update,Filter,Delete customers
+# Inventory Management System
 
+This project is a web-based inventory management system built with Django, designed to help businesses track and manage their stock efficiently.
 
+## Features
 
+- **User Authentication**: Secure login and registration system
+- **Dashboard**: Overview of inventory statistics and alerts
+- **Product Management**: 
+  - Add new products
+  - View product details
+  - Update product information
+  - Delete products
+- **Stock Tracking**: 
+  - Monitor current stock levels
+  - Set low stock alerts
+- **Category Management**: Organize products into categories
+- **Order Management**: 
+  - Create purchase orders
+  - Record sales transactions
+- **Reporting**: Generate inventory reports
+
+## Technology Stack
+
+- **Backend**: Django
+- **Database**: MySQL
+- **Frontend**: HTML, CSS (Bootstrap), JavaScript
+
+## Installation
+
+1. Clone the repository:
 
 <h3>Screenshots</h3>
 
