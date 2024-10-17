@@ -29,7 +29,35 @@ This project is a web-based inventory management system built with Django, desig
 
 ## Installation
 
-1. Clone the repository:
+## Installation
+
+### Prerequisites
+
+- Python 3.8+
+- pip (Python package manager)
+- MySQL
+
+### Steps
+
+1. **Clone the repository**
+   https://github.com/vedanti06/Customer_Management
+   cd customermanage
+
+2. **Set Up a Virtual Environment**
+   python -m venv env
+   source env/bin/activate  # On Windows use `env\Scripts\activate`
+   
+3. **Install Dependencies**
+   pip install -r requirements.txt
+  
+4. **Database Migrations**
+   python manage.py migrate
+
+5. **Run the Development Server**
+   python manage.py runserver
+   
+6. **Access the Application**
+  Open your web browser and navigate to http://127.0.0.1:8000.
 
 <h3>Screenshots</h3>
 
